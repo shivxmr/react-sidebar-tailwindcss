@@ -1,7 +1,8 @@
-# sidebar_reactTailwind
-sidebar using react js tailwind css
+Sidebar using TailwindCSS
 
-Vite + React + tailwind
+Vite + React + TailwindCSS
 
 1) npm i
 2) npm run dev
+
+
